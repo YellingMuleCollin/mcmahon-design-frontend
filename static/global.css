@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: gill-sans-nova,sans-serif;
+    font-style: normal;
+}
+:root{
+    --container-width: 1140px;
+    --blue: #00aeef;
+
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:active, a:hover {
+    color: var(--blue);
+    text-decoration: none;
+}

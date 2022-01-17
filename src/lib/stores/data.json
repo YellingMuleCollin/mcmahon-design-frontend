@@ -1,0 +1,40 @@
+{
+    "pages": [
+        {
+            "title": "Home",
+            "slug": "home"
+        },
+        {
+            "title": "About",
+            "slug": "about"
+        },
+        {
+            "title": "Contact",
+            "slug": "contact"
+        },
+        {
+            "title": "My Work",
+            "slug": "my-work"
+
+        }
+
+    ],
+    "work": [
+        {
+            "title": "Project 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus consequuntur deserunt commodi, nobis qui inventore corrupti iusto aliquid debitis unde non?"
+
+        },
+        {
+            "title": "Project 2",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus consequuntur deserunt commodi, nobis qui inventore corrupti iusto aliquid debitis unde non?"
+
+        },
+        {
+            "title": "Project 3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus consequuntur deserunt commodi, nobis qui inventore corrupti iusto aliquid debitis unde non?"
+
+        }
+    ]
+
+}
